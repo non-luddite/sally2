@@ -1,0 +1,13 @@
+body{
+background-color: azure;
+}
+
+header {
+  text-align: center;
+  margin-top: 100px;
+}
+
+img {
+	border-style: 2px solid black;
+	border-radius: 20px;
+}
